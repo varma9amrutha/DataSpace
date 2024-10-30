@@ -1,0 +1,9 @@
+{
+	"name": "customers296",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01309f75-a83e-43f3-acb1-5279a039a876",
+		"tenantId": "2caff164-dd59-4db9-9580-16e02996a074"
+	}
+}
